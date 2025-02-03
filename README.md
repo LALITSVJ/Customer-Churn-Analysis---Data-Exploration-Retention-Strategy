@@ -1,0 +1,2 @@
+# Customer-Churn-Analysis---Data-Exploration-Retention-Strategy
+This project focuses on analyzing customer churn for a fictional telecom company. The dataset contains 7,043 customer records, including service details, contract types, demographics, and billing information. The objective is to identify key churn patterns, derive insights, and propose effective retention strategies to improve customer loyalty.
